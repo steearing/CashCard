@@ -1,4 +1,4 @@
-package example.CashCard;
+package example.cashcard;
 
-public record CashCard(Long id, Double amount) {
+record CashCard(Long id, Double amount) {
 }
